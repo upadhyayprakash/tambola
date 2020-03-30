@@ -1,9 +1,9 @@
 # Tambola - A Group Entertainment
 ### A network based multi-player Indian game a.k.a. Housey or Housie.
 
-## Tickets:
-![Alt text](https://i.pinimg.com/originals/8f/db/ee/8fdbeef61d74f5ed7cb2f4fed6ee5986.jpg "Tambola Ticket Sample")
-<p style="text-align: center;">Tambola Sample Ticket</p>	
+## Tickets: Tambola Sample Ticket
+![Alt Text](https://i.pinimg.com/originals/8f/db/ee/8fdbeef61d74f5ed7cb2f4fed6ee5986.jpg "Tambola Sample Ticket")
+
 ## Game Play:
 
 ## User Flow:
