@@ -5,6 +5,23 @@
 ![Alt Text](https://i.pinimg.com/originals/8f/db/ee/8fdbeef61d74f5ed7cb2f4fed6ee5986.jpg "Tambola Sample Ticket")
 
 ## Game Play:
+- Each participant is alloted a Random Ticket
+- Each Ticket as 3 Rows and 9 Column. Totaling 27 Cells.
+- Random Numbers between 1 and 90 are filled in 15 of those cells. Other cells are disabled/blocked.
+- The announcer starts calling the number one at a time, by picking coins from the shuffled coin bowl.
+- Participants with Housie Ticket, match the announced number in their Ticket and Check/Cross that cell.
+- Then, there're Winning Criteria as follows:(may change per game)
+	1. Top Row All checked
+	2. Middle Row All checked
+	3. Bottom Row All checked
+	4. Full Housie(All cells Checked)
+- Participants full-filling any of the Winning criteria should click on the 'DAB' button or call-out their game fastest. It's possible for two players to win the Row at one time, so the fastest to DAB wins it.
+- Once the participant clicks on the DAB button, their Ticket is verified with the Drawn coins. There're two scenarios:
+	1. All his checked cells match with drawn conis, so his claim is correct, and he wins that row. That winning criteria is removed as already CLAIMED.
+	2. Some of his checked cells are not yet announced, his claim is incorrect, so he's disqualified for further draw of that game. The game continues with further draws.
+
+- The leaderboard can be listed after all the numbers are drawn(1 to 90)
+![Alt Text](https://i.pinimg.com/600x315/02/9d/e7/029de77a5ab9ec2e3da5a305db894029.jpg "Shuffled Coins")
 
 ## User Flow:
 - Log-in to the Tambola Website
